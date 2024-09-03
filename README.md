@@ -43,7 +43,3 @@ In this custom model, additional convolutional layers were added to the ResNet-1
 ## Conclusion
 
 The project successfully demonstrated the use of deep learning models, specifically ResNet-18, for mushroom classification. Through various modifications and fine-tuning, the models were able to achieve reasonable accuracy, highlighting the potential of deep learning in this domain.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
